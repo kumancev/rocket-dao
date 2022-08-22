@@ -5,7 +5,7 @@ const { setGlobalState, useGlobalState, getGlobalState } = createGlobalState({
   createModal: 'scale-0',
   loginModal: 'scale-0',
   connectedAccount: '',
-  contract: null,
+  contract: '0x89775e7D167254b43b2860BeB56b155B8Ad306Af',
   currentUser: null,
   isStakeholder: false,
   balance: 0,
